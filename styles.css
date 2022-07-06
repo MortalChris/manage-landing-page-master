@@ -107,20 +107,20 @@ svg {
 }
 
 /* Utility Classes */
-.text-primary-400 {
-    color: var(--clr-primary-400)
+.bg-primary-400 {
+  background-color: var(--clr-primary-400)
 }
-.text-primary-400 {
-  color: var(--clr-accent-400)
+.bg-primary-400 {
+  background-color: var(--clr-accent-400)
 }
-.text-primary-400 {
-  color: var(--clr-accent-100)
+.bg-primary-400 {
+  background-color: var(--clr-accent-100)
 }
-.text-primary-400 {
-  color: var(--clr-neutral-100)
+.bg-primary-400 {
+  background-color: var(--clr-neutral-100)
 }
-.text-primary-400 {
-  color: var(--clr-neutral-900)
+.bg-primary-400 {
+  background-color: var(--clr-neutral-900)
 }
 
 .fw-bold { font-weight: var(--fw-bold); }
@@ -133,3 +133,8 @@ svg {
 .fs-secondary-heading {
   font-size: var(--fs-secondary-heading);
 }
+
+.fs-300 { font-size: var(--fs-300); }
+.fs-400 { font-size: var(--fs-400); }
+.fs-500 { font-size: var(--fs-500); }
+.fs-600 { font-size: var(--fs-600); }
